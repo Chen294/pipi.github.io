@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+出一台自己组装的99新台式机（7月买的组装的，验机后就封装起来没有使用了）
 
-You can use the [editor on GitHub](https://github.com/Chen294/pipi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+配置如下
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| 配置 | 型号                                          | 京东价（参考） |
+| ---- | --------------------------------------------- | -------------- |
+| 主板 | 华硕 ROG STRIX B460-H GAMING主板              | 1200           |
+| CPU  | 英特尔 i5-10500 酷睿六核 盒装CPU处理器        | 1600           |
+| 内存 | 金士顿 DDR4 2666 8G 骇客神条 Fury雷电系列 2条 | 478            |
+| 固态 | 西部数据 500GB M.2接口(NVMe协议) SN750        | 599            |
+| 电源 | 长城巨龙600W GW-6800 80PLUS金牌 日系电容      | 449            |
+| 机箱 | 先马 剑魔3 白色机箱                           | 199            |
+| 总计 |                                               | 4525           |
 
-### Markdown
+1.赠送一个15cm风扇，一个静音键盘，一根HDMI线。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2.我已经组装好了，省去装机成本。人在江安，面交，可以找网吧或有显示器的地方当场验货（检验硬盘开机时间、查询序列号、CPU-Z、鲁大师测试等）。
 
-```markdown
-Syntax highlighted code block
+3.所有的配置都有包装盒（我自己组装的），一并给你，支持官网验证序列号，另外主板我买过延保绑定过华硕账号，到时候一并给你，一年内损坏可换新。
 
-# Header 1
-## Header 2
-### Header 3
+4.出售价格**4100**元
 
-- Bulleted
-- List
+![1](1.jpg)
 
-1. Numbered
-2. List
+![2](2.jpg)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chen294/pipi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![3](3.jpg)
